@@ -6,13 +6,16 @@ import google.generativeai as genai
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from datetime import datetime
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # --- CONFIGURATION ---
 # REPLACE THESE VALUES WITH YOUR ACTUAL KEYS AND EMAILS
-GEMINI_API_KEY = "AIzaSyBvgvRv1xy-hKI-dWV9HGh_BqBMpxn0454" 
-SENDER_EMAIL = "mr.jenny.vd@gmail.com"
-SENDER_PASSWORD = "julc jajw qtyo pbms" # Google App Password (16 chars, no spaces needed)
-RECEIVER_EMAIL = "mr.jenny.vd@gmail.com"
+GEMINI_API_KEY = os.getenv('GEMINI_API_KEY') 
+SENDER_EMAIL = os.getenv('SENDER_EMAIL') 
+SENDER_PASSWORD = os.getenv('SENDER_PASSWORD')  # Google App Password (16 chars, no spaces needed)
+RECEIVER_EMAIL = os.getenv('RECEIVER_EMAIL') 
 
 # Initialize AI
 genai.configure(api_key=GEMINI_API_KEY)
