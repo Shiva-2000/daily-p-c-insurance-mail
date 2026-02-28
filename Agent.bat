@@ -1,0 +1,1 @@
+"C:\Users\Shiva\AppData\Local\Programs\Python\Python310\python.exe" "J:\VSCODE\InsuranceAgent/daily_agent.py"

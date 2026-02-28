@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "topic": "The Basics of Indemnity",
+    "focus": "Explain the concept of 'making whole' without betterment. Why you can't profit from a claim.",
+    "form_context": "General P&C Principles"
+  },
+  {
+    "id": 2,
+    "topic": "HO-3 Form Structure - Coverage A (Dwelling)",
+    "focus": "What actually counts as the 'Dwelling'? Attached structures vs. detached. Replacement Cost vs. Actual Cash Value.",
+    "form_context": "ISO HO-3 Special Form"
+  },
+  {
+    "id": 3,
+    "topic": "Coverage B - Other Structures",
+    "focus": "The detached garage or fence. The 10% limit rule.",
+    "form_context": "ISO HO-3"
+  },
+  {
+    "id": 4,
+    "topic": "Coverage C - Personal Property",
+    "focus": "Your stuff inside the house. Coverage anywhere in the world vs. at the residence.",
+    "form_context": "ISO HO-3"
+  },
+  {
+    "id": 5,
+    "topic": "The Perils: Open vs. Named Perils",
+    "focus": "Explain that the House is usually 'Open Peril' (covered unless excluded) but Stuff is 'Named Peril' (only covered if listed).",
+    "form_context": "HO-3 vs HO-5"
+  },
+  {
+    "id": 6,
+    "topic": "Loss of Use (Coverage D)",
+    "focus": "Additional Living Expenses (ALE). Staying in a hotel while the house is rebuilt.",
+    "form_context": "ISO HO-3"
+  },
+  {
+    "id": 7,
+    "topic": "Liability (Coverage E) - The Dog Bite Scenario",
+    "focus": "Personal Liability. Defense costs provided by the insurer.",
+    "form_context": "Section II Liability"
+  },
+  {
+    "id": 8,
+    "topic": "Medical Payments to Others (Coverage F)",
+    "focus": "No-fault coverage for minor injuries to guests. How it differs from Liability.",
+    "form_context": "Section II Liability"
+  },
+  {
+    "id": 9,
+    "topic": "Wind/Hail Deductibles",
+    "focus": "Percentage deductibles vs. flat dollar amounts. Specific to coastal areas.",
+    "form_context": "Policy Endorsements"
+  },
+  {
+    "id": 10,
+    "topic": "Water Backup vs. Flood",
+    "focus": "The crucial difference between water from the ground (Flood - excluded) and water from pipes/sewer (Backup - needs endorsement).",
+    "form_context": "Exclusions & Endorsements"
+  }
+]
